@@ -80,7 +80,8 @@ img{
 }
 .photo{
    height: 400px;
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     position: relative;
 }
@@ -169,5 +170,21 @@ footer h4,h5{
 .container.flex{
     justify-content: space-between;
     align-items: center;
-    padding: 1em 0;
-}
+    padding: 1em 0; }
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
